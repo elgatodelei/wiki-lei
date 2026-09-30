@@ -24,3 +24,7 @@
 > Como Traduzir os Palavrões da Tragédia Grega
 
 >Intrepetar como essas peças se traduzem e influenciam hoje em dia
+
+## Próximas aulas
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 2 e 3\|Aula 2 e 3]]
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 4 e 5\|Aula 4 e 5]]
