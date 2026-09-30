@@ -54,18 +54,6 @@
   * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/01 Poesia Trovadoresca e Religiosa/1.3 Cantiga de Amor e Cantiga de Amigo\|1.3 A Poesia Amorosa: Cantiga de Amor vs. Cantiga de Amigo]]
   * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/01 Poesia Trovadoresca e Religiosa/1.4 Escarnio e Maldizer\|1.4 A Poesia como Denúncia Social: O Escárnio e Maldizer]]
   * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/01 Poesia Trovadoresca e Religiosa/1.5 Cantigas de Santa Maria\|1.5 As Cantigas de Santa Maria de Afonso X: Louvor e Iluminura]]
-* Narrativa Breve: Os Livros de Linhagens:
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/02 Narrativa Breve Livros de Linhagens/2.1 Livros de Linhagens Do Livro Velho a Refundicao de 1380\|2.1 Os Livros de Linhagens: Do Livro Velho à Refundição de 1380]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/02 Narrativa Breve Livros de Linhagens/2.2 Narrativas Lendarias Veloso Gaia Pereira\|2.2 Narrativas Lendárias: Os Veloso, Lenda de Gaia, Dama Pé de Cabra e os Pereira]]
-* *Os Lusíadas* (1572): A História e o Mito:
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/03 Os Lusiadas Epica e Mito/3.1 Dimensao Cavaleiresca da Epopeia Quinhentista\|3.1 A Dimensão "Cavaleiresca" do Poema Épico no Século XVI]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/03 Os Lusiadas Epica e Mito/3.2 Profecias de Fanimor Clarimundo\|3.2 As Profecias de Fanimor (Crónica do Imperador Clarimundo, 1522)]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/03 Os Lusiadas Epica e Mito/3.3 Centralidade de D Sebastiao\|3.3 A "Centralidade" de D. Sebastião: Dedicatória e Exortação Final]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/03 Os Lusiadas Epica e Mito/3.4 Sentidos Estruturais dos Episodios\|3.4 Sentidos Estruturais dos Episódios: Egas Moniz, Ourique, Salado e Inês de Castro]]
-* Bibliografia e Fichamentos:
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/04 Bibliografia e Fichamentos/00 Bibliografia Completa\|00 Bibliografia Geral da Cadeira]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/04 Bibliografia e Fichamentos/Videira Lopes Cantigas Medievais Galego Portuguesas\|Graça Videira Lopes: Cantigas Medievais Galego-Portuguesas]]
-  * [[2º Ano/1º Semestre/Wiki/Textos das Literaturas de Lingua Portuguesa I/04 Bibliografia e Fichamentos/Tavani Trovadores e Jograis\|Giuseppe Tavani: Trovadores e Jograis]]
 
 ---
 
