@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-ano/1-semestre/resumos-de-obras-e-etc/rcm/andrew-sarris-notes-on-the-auteur-theory-in-1962/","tags":["cinema","teoria-do-autor","andrew-sarris","politique-des-auteurs","mise-en-scene","estilo-cinematografico","hollywood"],"dg-note-properties":{"tags":["cinema","teoria-do-autor","andrew-sarris","politique-des-auteurs","mise-en-scene","estilo-cinematografico","hollywood"]}}
+{"dg-publish":true,"permalink":"/2-ano/1-semestre/resumos-de-obras-e-etc/rcm/andrew-sarris-notes-on-the-auteur-theory-in-1962/","dg-note-properties":{"tags":null}}
 ---
 
 
