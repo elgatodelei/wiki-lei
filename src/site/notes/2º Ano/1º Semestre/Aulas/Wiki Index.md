@@ -3,7 +3,7 @@
 ---
 
 ![Pasted image 20260929214419.png](/img/user/2%C2%BA%20Ano/1%C2%BA%20Semestre/Imagens%20e%20ficheiros/Icon%20Casa/Pasted%20image%2020260929214419.png)
-# Cadeiras 2º Ano
+# Cadeiras 2º Ano Aulas
 
 ### 1. Literatura Portuguesa e Música
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 1 a 5\|Aula 1 a 5]]
@@ -41,3 +41,5 @@
 [[2º Ano/1º Semestre/Imagens e ficheiros/Não à pirataria MAS\|Não à pirataria MAS]]
 
 ---
+# Resumos
+[[2º Ano/1º Semestre/Resumos de obras e etc/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]]
