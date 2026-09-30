@@ -56,3 +56,6 @@ Kommos - lamento entoado em conjunto por atores e coro
 Monodia - ode entoada a solo por um dos atores
 
 - A ação na tragédia grega deve acontecer no exterior (polis)
+
+---
+## Próximas Aulas:
