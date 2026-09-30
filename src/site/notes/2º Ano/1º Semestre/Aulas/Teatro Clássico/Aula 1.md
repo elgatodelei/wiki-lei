@@ -15,7 +15,7 @@
 - Começamos com teatro Grego e Tragédia Grega
 - Vamos dar **4 peças** em específico
 >  Peças Gregas cheias de Diversidade
-1. Eurípides - Alceste 
+1. Eurípides - [[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Alceste\|Alceste]]
 > Podemos pedir a alguém que morra por nós?
 2. Sófocles - Rei édipo
 3. Sófocles - Filoctetes
