@@ -44,3 +44,10 @@ Número de participantes:
 
 - Mimesis deve ser traduzida para representação e não imitação
 - Katbarsis - purificaçã
+
+## Aulas Anteriores:
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 1\|Aula 1]]
+
+---
+## Aulas Seguintes:
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 4 e 5\|Aula 4 e 5]]
