@@ -59,4 +59,5 @@ A intriga assenta na mitologia arcaica já referida por Homero e Hesíodo, artic
 
 ---
 
-**Fonte\: [Eurípides / Alceste](https://greciantiga.org/arquivo.asp?num=0229)
+## Fonte:
+[Eurípides / Alceste](https://greciantiga.org/arquivo.asp?num=0229)
