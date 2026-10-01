@@ -28,6 +28,7 @@
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 2\|Aula 2]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 3\|Aula 3]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 4 e 5\|Aula 4 e 5]]
+[[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 6\|Aula 6]]
 
 ---
 
@@ -35,7 +36,7 @@
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 1\|Aula 1]]
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 2 e 3\|Aula 2 e 3]]
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 4 e 5\|Aula 4 e 5]]
-[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|Aula 6]]
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6]]
 
 ---
 # Ficheiros
