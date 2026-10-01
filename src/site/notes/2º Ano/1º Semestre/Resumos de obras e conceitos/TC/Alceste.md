@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2-ano/1-semestre/resumos-de-obras-e-conceitos/tc/alceste/","dg-note-properties":{}}
 ---
 
+![Pasted image 20261001080124.png](/img/user/2%C2%BA%20Ano/1%C2%BA%20Semestre/Imagens%20e%20ficheiros/Imagens/Pasted%20image%2020261001080124.png)
 ## Contexto Histórico e Produção
 
 _Alceste_ (_Ἄλκηστις_), levada à cena por Eurípides nas Dionísias Urbanas de 438 a.C., em Atenas, insere-se na fase de maturidade do dramaturgo, composta cerca de duas décadas após a sua estreia com _Pelíades_ (-455). Apresentada como quarta peça de uma tetralogia que integrava _Cretenses_, _Alcmeon em Psófis_ e _Télefo_, a obra obteve o segundo lugar no concurso trágico, cuja vitória coube a Sófocles.
