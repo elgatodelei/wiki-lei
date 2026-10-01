@@ -6,7 +6,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-10-01T10:38:14.887Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/rounded-images/README.md",
         "src/plugins/rounded-images/garden-plugin.json",
