@@ -12,6 +12,7 @@
 
 ### 2. Referências do Cinema Mundial
 [[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 1, 2 e 3\|Aula 1, 2 e 3]]
+[[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 4\|Aula 4]]
 
 ---
 ### 3. Literatura Portuguesa e Artes Visuais
