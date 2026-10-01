@@ -66,3 +66,10 @@
 ### LPAV
 
 ---
+# Coisas importantes
+**Quando o texto aparece** 
+
+> **Assim**
+
+Significa um à parte, dica, ou fala do professor
+
