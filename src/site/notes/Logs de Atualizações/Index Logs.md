@@ -17,6 +17,7 @@
 - Guia adicionado ([[Guia de como usar\|Guia de como usar]])
 - Link do drive com conteúdo dado pelos professores num só lugar, incluindo os 3 primeiros filmes de RCM ([[2º Ano/1º Semestre/Imagens e ficheiros/Links para drive, ficheiros dados pelos prof, etc\|Links para drive, ficheiros dados pelos prof, etc]])
 - Aulas de toda a semana
+- Mudança de domínio para [wiki-letras-lei.vercel.app](https://wiki-letras-lei.vercel.app), domínio antigo ainda funciona
 
 </div></div>
 
