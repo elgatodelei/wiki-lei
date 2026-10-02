@@ -11,6 +11,7 @@
 ### 1. Literatura Portuguesa e Música
 **Setembro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 1 a 5\|Aula 1 a 5]]
+
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 6\|Aula 6]]
 
@@ -18,7 +19,8 @@
 
 ### 2. Referências do Cinema Mundial
 **Setembro:**
-[[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 1, 2 e 3\|Aula 1, 2 e 3]]
+[[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 1, 2 e 3\|Aula 1, 2 e 3]] 
+
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 4\|Aula 4]]
 
@@ -29,6 +31,7 @@
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 2\|Aula 2]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 3\|Aula 3]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 4 , 5 e 6\|Aula 4 , 5 e 6]]
+
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|Aula 7]]
 
@@ -40,6 +43,7 @@
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 2\|Aula 2]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 3\|Aula 3]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 4 e 5\|Aula 4 e 5]]
+
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 6\|Aula 6]]
 
@@ -50,6 +54,7 @@
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 1\|Aula 1]]
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 2 e 3\|Aula 2 e 3]]
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 4 e 5\|Aula 4 e 5]]
+
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|Aula 6]]
 
