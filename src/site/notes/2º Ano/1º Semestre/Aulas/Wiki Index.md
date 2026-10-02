@@ -5,6 +5,7 @@
 ![Pasted image 20260929214419.png](/img/user/2%C2%BA%20Ano/1%C2%BA%20Semestre/Imagens%20e%20ficheiros/Icon%20Casa/Pasted%20image%2020260929214419.png)
 # Guia
 [[Guia de como usar\|Guia de como usar]]
+[[Logs de Atualizações/Index Logs\|Index Logs]]
 # Cadeiras 2º Ano Aulas
 
 ### 1. Literatura Portuguesa e Música
