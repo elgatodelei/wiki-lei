@@ -70,7 +70,15 @@
 # Coisas importantes
 **Quando o texto aparece** 
 
-> **Assim**
+> Assim
 
-Significa um à parte, dica, ou fala do professor
+**Significa um à parte, dica, ou fala do professor**
 
+---
+**Quando aparece:**
+
+```
+assim
+```
+
+**significa data em que foi escrito/ aula dada**
