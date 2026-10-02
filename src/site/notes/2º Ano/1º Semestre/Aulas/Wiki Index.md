@@ -7,6 +7,7 @@
 
 ### 1. Literatura Portuguesa e Música
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 1 a 5\|Aula 1 a 5]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 6\|Aula 6]]
 
 ---
 
