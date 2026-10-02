@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/2-ano/1-semestre/resumos-de-obras-e-conceitos/rcm/andrew-sarris-notes-on-the-auteur-theory-in-1962/","dg-note-properties":{"tags":null}}
 ---
 
-
-# Andrew Sarris - Notes on the Auteur Theory in 1962
-
 O texto de Andrew Sarris estabelece a ponte crítica entre a cinefilia europeia dos anos 1950 e a formação dos estudos académicos de cinema no espaço anglo-saxónico. Aborda diretamente as problemáticas nucleares da cadeira:
 * A tensão entre a natureza coletiva do cinema industrial e a afirmação de uma autoria estética individual.
 * A afirmação da linguagem visual da realização (*mise-en-scène*) face à primazia do argumento literário.
