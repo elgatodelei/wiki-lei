@@ -8,8 +8,8 @@
 
 
 
-**4 De Dezembro de 2026** - Entrega das Perguntas
-**18 De Dezembro de 2026** - Entrega do Trabalho
+**4 De Dezembro de 2026** - Entrega das Perguntas RCM
+**18 De Dezembro de 2026** - Entrega do Trabalho RCM
 
 </div></div>
 
@@ -19,7 +19,7 @@
 
 
 
-**2 De Novembro 2026** - Primeiro Teste
+**2 De Novembro 2026** - Primeiro Teste TLLP I
 
 
 </div></div>
