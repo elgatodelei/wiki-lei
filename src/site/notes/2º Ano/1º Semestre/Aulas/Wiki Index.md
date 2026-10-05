@@ -6,6 +6,7 @@
 # Guia
 [[Guia de como usar\|Guia de como usar]]
 [[Logs de Atualizações/Index Logs\|Index Logs]]
+[[2º Ano/1º Semestre/Datas Importantes/Index de Datas\|Index de Datas]]
 # Cadeiras 2º Ano Aulas
 
 ### 1. Literatura Portuguesa e Música
