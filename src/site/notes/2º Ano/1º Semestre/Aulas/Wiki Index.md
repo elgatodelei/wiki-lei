@@ -70,7 +70,6 @@
 # Resumos e Conceitos
 
 ### RCM:
-[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]] - Resumi
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Circles and Squares — Pauline Kael\|Circles and Squares — Pauline Kael]] - Resumo
 
 ---
