@@ -15,6 +15,7 @@
 
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 6\|Aula 6]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 7\|Aula 7]]
 
 ---
 
@@ -34,7 +35,8 @@
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 4 , 5 e 6\|Aula 4 , 5 e 6]]
 
 **Outubro:**
-[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|Aula 7]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8\|Aula 8]]
 
 ---
 
@@ -68,7 +70,7 @@
 # Resumos e Conceitos
 
 ### RCM:
-[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]] - Resumo
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]] - Resumi
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Circles and Squares — Pauline Kael\|Circles and Squares — Pauline Kael]] - Resumo
 
 ---
