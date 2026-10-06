@@ -34,7 +34,7 @@
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 4 , 5 e 6\|Aula 4 , 5 e 6]]
 
 **Outubro:**
-[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|Aula 7]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7]]
 
 ---
 
@@ -65,15 +65,15 @@
 [[2º Ano/1º Semestre/Imagens e ficheiros/Não à pirataria MAS\|Não à pirataria MAS]]
 
 ---
-# Resumos
+# Resumos e Conceitos
 
 ### RCM:
-[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]]
-[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Circles and Squares — Pauline Kael\|Circles and Squares — Pauline Kael]] 
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Andrew Sarris - Notes on the Auteur Theory in 1962\|Andrew Sarris - Notes on the Auteur Theory in 1962]] - Resumo
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/RCM/Circles and Squares — Pauline Kael\|Circles and Squares — Pauline Kael]] - Resumo
 
 ---
 ### TC
-[[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Alceste\|Alceste]]
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Alceste\|Alceste]] - Resumo
 
 ---
 ### TLLP I
@@ -85,5 +85,6 @@
 ---
 
 ### LPAV
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/LPAV/Conceitos/Objet trouve\|Objet trouve]] - Conceito
 
 ---
