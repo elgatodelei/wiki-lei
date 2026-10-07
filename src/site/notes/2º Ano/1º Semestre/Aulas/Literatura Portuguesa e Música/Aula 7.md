@@ -9,7 +9,8 @@ Terça-Feira, 6 de Outubro de 2026
 **[[2º Ano/1º Semestre/Resumos de obras e conceitos/LPM/Conceitos/Catacrese\|Catacrese]]**:
 É uma figura de linguagem que acontece quando usamos uma palavra de forma metafórica porque não existe uma expressão mais específica ou porque esse uso já se tornou habitual. Por exemplo, dizemos “pé da cadeira” ou “costas da cadeira”, atribuindo partes do corpo humano a um objeto.
 
-Litote — É uma figura de linguagem utilizada para transmitir uma ideia através da negação do seu contrário. Pode servir para suavizar uma afirmação ou dar-lhe um tom irónico. Por exemplo, dizer “não é feio” em vez de afirmar diretamente “é bonito”.
+Litote 
+- É uma figura de linguagem utilizada para transmitir uma ideia através da negação do seu contrário. Pode servir para suavizar uma afirmação ou dar-lhe um tom irónico. Por exemplo, dizer “não é feio” em vez de afirmar diretamente “é bonito”.
 
 **Gatu / Gato** 
 - A palavra pode ser explorada através de diferentes sentidos. “Gatu” está relacionado com a audição, permitindo trabalhar o som da palavra e aproximá-lo, por exemplo, do miado de um gato, como “gatooo”. Já “gato” está associado à visão, isto é, à imagem do próprio animal.
