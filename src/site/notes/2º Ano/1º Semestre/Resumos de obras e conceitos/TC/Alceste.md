@@ -65,4 +65,4 @@ A intriga assenta na mitologia arcaica já referida por Homero e Hesíodo, artic
 
 ## Links
 [[2º Ano/1º Semestre/Aulas/Wiki Index\|Wiki Index]]
-[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|Aula 6]]
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6]]

@@ -14,7 +14,7 @@ Sexta-Feira, 2 de Outubro 2026
 
 - **Marcel Duchamp** - Criador do *Ready - Made* (Ex: Secador de garrafas)
 - Basicamente a arte é complicada
-- *Objet trouve* - Descrição do professor: "Ir à uma feira da Lavra, encontrar uma peça estranha, ou qualquer coisa, compra-se e torna-se artístico" - Deve servir para nada
+-  [[2º Ano/1º Semestre/Resumos de obras e conceitos/LPAV/Conceitos/Objet trouve\|Objet trouve]] - Descrição do professor: "Ir à uma feira da Lavra, encontrar uma peça estranha, ou qualquer coisa, compra-se e torna-se artístico" - Deve servir para nada
 
 - **In a Cidade Queimada (1965) de Mário Cesariny**
      - Reivindicação da capacidade

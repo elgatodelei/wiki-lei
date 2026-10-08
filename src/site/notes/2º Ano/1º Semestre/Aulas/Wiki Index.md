@@ -60,6 +60,7 @@
 
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|Aula 6]]
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 7\|Aula 7]]
 
 ---
 # Ficheiros
