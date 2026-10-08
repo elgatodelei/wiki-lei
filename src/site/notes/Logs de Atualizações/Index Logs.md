@@ -28,7 +28,7 @@
 
 
 - Adicionado conceito de Objet Trouve
-- Adiconado Alceste em Inglês no drive
+- Adiconado Alceste em Inglês e PT-BR no drive
 - Adicionado resumo dos Capítulos I e III da Crónica da Guiné
 
 </div></div>
