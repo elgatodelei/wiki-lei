@@ -16,6 +16,7 @@
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 6\|Aula 6]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 7\|Aula 7]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 8\|Aula 8]]
 
 ---
 
