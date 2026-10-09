@@ -36,7 +36,7 @@
 
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|Aula 7]]
-[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8\|Aula 8]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8\|2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8]]
 
 ---
 
