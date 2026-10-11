@@ -21,7 +21,8 @@
 
 
 
-**2 De Novembro 2026** - Primeiro Teste TLLP I
 
+**2 De Novembro 2026** - Primeiro Teste TLLP I
+**26 de Outubro** - Apresentação dos Trabalhos
 
 </div></div>
