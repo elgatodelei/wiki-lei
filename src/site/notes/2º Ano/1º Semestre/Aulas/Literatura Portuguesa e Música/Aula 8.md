@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/2-ano/1-semestre/aulas/literatura-portuguesa-e-musica/aula-8/","dg-note-properties":{}}
 ---
 
+
+```
+Sexta-Feira, 9 de Outubro de 2026
+```
+
 ### Distinção entre Grafemas e Fonemas
 
 * **Representação vs. Som:** Há uma diferença fundamental na linguística entre grafemas (letras, que são representações visuais) e fonemas (os sons reais da fala). As letras não são os sons em si, mas sim os seus registos escritos.

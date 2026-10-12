@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/2-ano/1-semestre/aulas/textos-das-literaturas-de-lingua-portuguesa-i/aula-8/","dg-note-properties":{}}
 ---
 
+
+```
+Segunda-feira, 12 de Outubro de 2026
+```
 ## Características das cantigas de Escárnio (Ver [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 7\|Aula 7]])
 - Relatam situações concretas
 - Maior variabilidade
