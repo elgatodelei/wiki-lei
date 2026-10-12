@@ -30,9 +30,17 @@
 - Adicionado conceito de Objet Trouve
 - Adiconado Alceste em Inglês e PT-BR no drive
 - Adicionado resumo dos Capítulos I e III da Crónica da Guiné
-- Aulad sa semana adicionadas
+- Aulas sa semana adicionadas
 
 </div></div>
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
 
 **Voltar ao Index da Wiki**: [[2º Ano/1º Semestre/Aulas/Wiki Index\|Wiki Index]]
