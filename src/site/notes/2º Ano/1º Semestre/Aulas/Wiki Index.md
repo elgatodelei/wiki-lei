@@ -85,6 +85,7 @@
 ---
 ### TLLP I
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Crónica da Guiné\|Crónica da Guiné]] (Ainda não acabado) - Resumo
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Conceitos/hequivocatio\|hequivocatio]] - Conceito
 
 ---
 

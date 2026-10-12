@@ -79,3 +79,5 @@
 - Escândalo de Amas e Tedcedeiras
 - Impertinência do Jogral Lourenço
 - Traição dos cavaleiros de Granada
+---
+Continuação: [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 8\|Aula 8]]
