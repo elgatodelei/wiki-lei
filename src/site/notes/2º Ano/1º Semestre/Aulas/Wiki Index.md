@@ -3,6 +3,8 @@
 ---
 
 ![Pasted image 20260929214419.png](/img/user/2%C2%BA%20Ano/1%C2%BA%20Semestre/Imagens%20e%20ficheiros/Icon%20Casa/Pasted%20image%2020260929214419.png)
+# Aviso
+- **Algumas aulas estão em atraso devido a ter ficado doente**
 # Guia
 [[Guia de como usar\|Guia de como usar]]
 [[Logs de Atualizações/Index Logs\|Index Logs]]
@@ -65,6 +67,7 @@
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 6\|Aula 6]]
 [[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 7\|Aula 7]]
+[[2º Ano/1º Semestre/Aulas/Teatro Clássico/Aula 8\|Aula 8]]
 
 ---
 # Ficheiros
