@@ -55,6 +55,7 @@
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 6\|Aula 6]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 7\|Aula 7]]
 [[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 8\|Aula 8]]
+[[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 9\|Aula 9]]
 
 ---
 
@@ -84,15 +85,20 @@
 ---
 ### TC
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Alceste\|Alceste]] - Resumo
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Conceitos/Mythos\|Mythos]] - Conceito
+
 
 ---
 ### TLLP I
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Crónica da Guiné\|Crónica da Guiné]] (Ainda não acabado) - Resumo
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Conceitos/hequivocatio\|hequivocatio]] - Conceito
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Conceitos/Cronista-mor\|Cronista-mor]] - Conceito
 
 ---
 
 ### LPM
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/LPM/Conceitos/Litote\|Litote]] - Conceito
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/LPM/Conceitos/Catacrese\|Catacrese]] - Conceito
 
 ---
 

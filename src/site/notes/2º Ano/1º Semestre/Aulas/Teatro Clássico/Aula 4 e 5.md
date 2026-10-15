@@ -17,7 +17,7 @@
 
 As partes / os elementos da tragédia (Poética)
 
-- Mytbos - Enredo
+- [[2º Ano/1º Semestre/Resumos de obras e conceitos/TC/Conceitos/Mythos\|Mythos]] - Enredo
 - Etbos - carácter 
 > Também pode ser traduzida para personagem
 - Dianoia - Pensamento

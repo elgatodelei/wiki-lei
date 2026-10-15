@@ -22,8 +22,8 @@ Sexta-Feira, 9 de Outubro de 2026
 ### Os Sentidos Humanos e o Desenvolvimento Infantil
 
 * **Relação entre Audição e Fala:** A surdez na infância historicamente resultava na mudez devido à impossibilidade de ouvir e imitar os sons. Por essa razão, o termo "surdo-mudo" caiu em desuso, uma vez que a mudez é uma consequência da falta de estímulo auditivo e não uma incapacidade física do aparelho fonador.
-* **A Importância do Tato:** O tato é o sentido mais resiliente e essencial do ser humano; é o primeiro a desenvolver-se e o último a perder-se. Nas relações humanas, o "tato" funciona como uma metáfora vital para a empatia, o respeito pelo espaço alheio e a sensibilidade social.
-* **Aprendizagem Acelerada:** O período até aos 10 anos de idade é a fase de maior plasticidade e ritmo de aprendizagem na vida humana. As crianças experimentam constantemente os seus limites físicos e biológicos (como aprender a rejeitar alimentos ou testar a projeção de ar para emitir novos sons).
+* O tato é o sentido mais resiliente e essencial do ser humano; é o primeiro a desenvolver-se e o último a perder-se. Nas relações humanas, o "tato" funciona como uma metáfora vital para a empatia, o respeito pelo espaço alheio e a sensibilidade social.
+* O período até aos 10 anos de idade é a fase de maior plasticidade e ritmo de aprendizagem na vida humana. As crianças experimentam constantemente os seus limites físicos e biológicos (como aprender a rejeitar alimentos ou testar a projeção de ar para emitir novos sons).
 
 ### Mecanismo de Articulação da Fala e Educação de Surdos
 
