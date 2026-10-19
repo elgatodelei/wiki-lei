@@ -4,7 +4,7 @@
 
 ![Pasted image 20260929214419.png](/img/user/2%C2%BA%20Ano/1%C2%BA%20Semestre/Imagens%20e%20ficheiros/Icon%20Casa/Pasted%20image%2020260929214419.png)
 # Aviso
-- **Algumas aulas estão em atraso devido a ter ficado doente**
+- Algumas aulas em atraso
 # Guia
 [[Guia de como usar\|Guia de como usar]]
 [[Logs de Atualizações/Index Logs\|Index Logs]]
@@ -19,6 +19,8 @@
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 6\|Aula 6]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 7\|Aula 7]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 8\|Aula 8]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 9\|Aula 9]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Música/Aula 10\|Aula 10]]
 
 ---
 
@@ -28,6 +30,8 @@
 
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 4\|Aula 4]]
+[[2º Ano/1º Semestre/Aulas/Referências do Cinema Mundial/Aula 5\|Aula 5]]
+[[2º Ano/1º Semestre/Aulas/Textos das Literaturas de Língua Portuguesa I/Aula 6\|Aula 6]]
 
 ---
 ### 3. Literatura Portuguesa e Artes Visuais
@@ -39,7 +43,7 @@
 
 **Outubro:**
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 7\|Aula 7]]
-[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8\|2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8]]
+[[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 8\|Aula 8]]
 [[2º Ano/1º Semestre/Aulas/Literatura Portuguesa e Artes Visuais/Aula 9 e 10\|Aula 9 e 10]]
 
 ---
@@ -93,6 +97,7 @@
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Crónica da Guiné\|Crónica da Guiné]] (Ainda não acabado) - Resumo
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Conceitos/hequivocatio\|hequivocatio]] - Conceito
 [[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Conceitos/Cronista-mor\|Cronista-mor]] - Conceito
+[[2º Ano/1º Semestre/Resumos de obras e conceitos/TLLP I/Prologo da Cronica da Guine\|Prologo da Cronica da Guine]]
 
 ---
 
