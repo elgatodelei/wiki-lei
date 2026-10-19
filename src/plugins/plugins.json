@@ -30,7 +30,11 @@
         "src/plugins/related-notes/index.js",
         "src/plugins/related-notes/styles/related.scss",
         "src/plugins/related-notes/templates/related.njk"
-      ]
+      ],
+      "settings": {
+        "heading": "Relacionado",
+        "count": 4
+      }
     },
     "recently-tended": {
       "repo": "oleeskild/garden-plugin-recently-tended",
