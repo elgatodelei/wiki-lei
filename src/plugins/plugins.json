@@ -37,7 +37,7 @@
       "installedVersion": "1.0.0",
       "installedRef": "v1.0.0",
       "installedAt": "2026-10-19T08:09:51.537Z",
-      "enabled": true,
+      "enabled": false,
       "files": [
         "src/plugins/recently-tended/README.md",
         "src/plugins/recently-tended/garden-plugin.json",
